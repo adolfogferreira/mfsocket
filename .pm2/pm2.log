@@ -1,0 +1,18 @@
+2020-12-26T11:58:11: PM2 log: ===============================================================================
+2020-12-26T11:58:11: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2020-12-26T11:58:11: PM2 log: Time                 : Sat Dec 26 2020 11:58:11 GMT+0000 (UTC)
+2020-12-26T11:58:11: PM2 log: PM2 version          : 4.5.1
+2020-12-26T11:58:11: PM2 log: Node.js version      : 8.10.0
+2020-12-26T11:58:11: PM2 log: Current arch         : x64
+2020-12-26T11:58:11: PM2 log: PM2 home             : /home/ec2-user/.pm2
+2020-12-26T11:58:11: PM2 log: PM2 PID file         : /home/ec2-user/.pm2/pm2.pid
+2020-12-26T11:58:11: PM2 log: RPC socket file      : /home/ec2-user/.pm2/rpc.sock
+2020-12-26T11:58:11: PM2 log: BUS socket file      : /home/ec2-user/.pm2/pub.sock
+2020-12-26T11:58:11: PM2 log: Application log path : /home/ec2-user/.pm2/logs
+2020-12-26T11:58:11: PM2 log: Worker Interval      : 30000
+2020-12-26T11:58:11: PM2 log: Process dump file    : /home/ec2-user/.pm2/dump.pm2
+2020-12-26T11:58:11: PM2 log: Concurrent actions   : 2
+2020-12-26T11:58:11: PM2 log: SIGTERM timeout      : 1600
+2020-12-26T11:58:11: PM2 log: ===============================================================================
+2020-12-26T11:58:11: PM2 log: App [server:0] starting in -fork mode-
+2020-12-26T11:58:11: PM2 log: App [server:0] online
